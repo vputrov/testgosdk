@@ -36,7 +36,7 @@ import (
 	"io"
 	"io/ioutil"
 	"mime/multipart"
-	"golang.org/x/net/context"
+	"context"
 	"net/http"
 	"net/url"
 	"time"

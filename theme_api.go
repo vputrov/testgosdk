@@ -33,7 +33,7 @@ import (
 	"net/url"
 	"net/http"
 	"strings"
-	"golang.org/x/net/context"
+	"context"
 	"encoding/json"
 	"fmt"
 )
